@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+requests
+streamlit
+Flask
+shap
+seaborn
+lightGBM
